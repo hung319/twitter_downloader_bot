@@ -1,3 +1,6 @@
+```sh
+gh repo clone hung319/twitter_downloader_bot && pip install -r requirements.txt && python main.py
+```
 # Twitter Media Downloader Bot
 Telegram bot for downloading media from Twitter in best available quality. See here [@twitterimage_bot](http://t.me/twitterimage_bot)
 
